@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>VSCode Workspaces</string>
+	<string>Cursor Workspaces</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -68,7 +68,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>VSCode Workspaces</string>
+				<string>Cursor Workspaces</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -90,7 +90,7 @@
 				<integer>102</integer>
 				<key>script</key>
 				<string>source ~/.zshrc
-code -n --folder-uri "$1"</string>
+cursor -n --folder-uri "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>

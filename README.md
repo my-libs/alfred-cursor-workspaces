@@ -12,7 +12,9 @@ Forked from https://github.com/phartenfeller/alfred-vscode-workspaces
 
 ## Installation
 
-You need `code` added to shell path: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
+You need `cursor` added to shell path: cmd + p
+
+![](assets/image.png)
 
 You need a [currently maintained Node.js version](https://nodejs.org/en/about/previous-releases).
 
