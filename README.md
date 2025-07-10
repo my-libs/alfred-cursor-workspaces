@@ -1,15 +1,14 @@
-# Alfred 4/5 Workflow for VSCode Workspaces
+# Alfred 4/5 Workflow for Cursor Workspaces
 
-Get a list of your VS Code workspaces in alfred
+Get a list of your Cursor workspaces in alfred
 
-- Type `vsc` into alfred to get a list
+- Type `csr` into alfred to get a list
 - Works with **local** and **remote** workspaces
 
 ![](assets/workflow-usage.png)
 
-Forked from https://github.com/kbshl/alfred-vscode
+Forked from https://github.com/phartenfeller/alfred-vscode-workspaces
 
-Blogpost: https://hartenfeller.dev/blog/alfred-vscode-workflow
 
 ## Installation
 
@@ -18,5 +17,5 @@ You need `code` added to shell path: https://code.visualstudio.com/docs/setup/ma
 You need a [currently maintained Node.js version](https://nodejs.org/en/about/previous-releases).
 
 ```bash
-npm install --global @phartenfeller/alfred-vscode-workspaces
+npm install --global @changwj/alfred-vscode-workspaces
 ```
